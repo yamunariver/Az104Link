@@ -1,3 +1,8 @@
+# payload all the T?
+```sh
+https://swisskyrepo.github.io/InternalAllTheThings/cheatsheets/shell-bind-cheatsheet/#powershell
+```
+
 # Az104Link
 
 ## NSGs Config
